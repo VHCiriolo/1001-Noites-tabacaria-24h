@@ -1,0 +1,18 @@
+{
+  "name": "1001 Noites",
+  "short_name": "1001 Noites",
+  "description": "Cardápio e pedidos da 1001 Noites",
+  "lang": "pt-BR",
+  "start_url": "./",
+  "scope": "./",
+  "id": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0c0809",
+  "theme_color": "#0c0809",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
